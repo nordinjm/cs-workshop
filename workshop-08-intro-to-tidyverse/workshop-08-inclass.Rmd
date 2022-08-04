@@ -19,7 +19,7 @@ Today we will be covering the following topics:
 
 ## let's load the libraries  
 ```{r}
-
+library(dplyr)
 ```
 
   
